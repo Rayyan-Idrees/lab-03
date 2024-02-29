@@ -7,4 +7,6 @@ cout<<"My name is:"<<"Rayyan Idrees";
 cout<<"My roll no is:"23-ST-045";
 cout<<"The addition of these two numbers are"<< a+b <<endl;
 cout<<"The subtraction of these two numbers are"<< a-b <<endl;
+cout<<"The multiplication of these two numbers are"<< a*b <<endl;
+cout<<"The division of these two numbers are"<< a/b <<endl;
 }
