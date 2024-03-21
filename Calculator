@@ -10,3 +10,4 @@ cout<<"The subtraction of these two numbers are"<< a-b <<endl;
 cout<<"The multiplication of these two numbers are"<< a*b <<endl;
 cout<<"The division of these two numbers are"<< a/b <<endl;
 }
+cout<< c+d<<endl;
